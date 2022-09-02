@@ -1,0 +1,5 @@
+studentname= vardhan 
+mobileno=9502277098
+bday=23-10-2001 
+erpno=210303125008
+semester=3
